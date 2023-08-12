@@ -3,7 +3,7 @@
 This repository contains a Python script that uses the MediaPipe library to perform hand detection and gesture recognition using a pre-trained Keras model. The script captures video from your webcam and overlays bounding boxes on detected hands, along with predicting the gestures made by those hands.
 
 ## Screenshots
-![DEMO](demo1.gif)
+![](demo.gif)
 
 ## Installation
 
